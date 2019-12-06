@@ -1,5 +1,5 @@
 {
-  "name": "ngradialgauge",
+  "name": "@salesfusion/ng-radial-gauge",
   "version": "1.0.0",
   "description": "AngularJS Radial Gauge",
   "main": "src/ng-radial-gauge-dir.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stherrienaspnet/ngRadialGauge.git"
+    "url": "git+https://github.com/salesfusion-dev/ng-radial-gauge.git"
   },
   "keywords": [
     "AngularJS",
@@ -19,9 +19,9 @@
   "author": "Stephane Therrien",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stherrienaspnet/ngRadialGauge/issues"
+    "url": "https://github.com/salesfusion-dev/ng-radial-gauge/issues"
   },
-  "homepage": "https://github.com/stherrienaspnet/ngRadialGauge#readme",
+  "homepage": "https://github.com/salesfusion-dev/ng-radial-gauge#readme",
   "dependencies": {
     "angular": "~1.6.3",
     "d3": "~3.5.15"
